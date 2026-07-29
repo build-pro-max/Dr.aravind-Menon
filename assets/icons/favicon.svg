@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Meridian Health Clinic">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2ad3c5"></stop>
+      <stop offset=".5" stop-color="#0eaca1"></stop>
+      <stop offset="1" stop-color="#06817a"></stop>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="url(#g)"></rect>
+  <path d="M53 25.6c0 13-21.3 27-21.3 27S10.4 38.6 10.4 25.6a11.7 11.7 0 0 1 21.3-2.4 11.7 11.7 0 0 1 21.3 2.4Z" fill="none" stroke="#fff" stroke-width="4.6" stroke-linecap="round" stroke-linejoin="round"></path>
+  <path d="M19 34.2h6.6l3.4-6.4 4.2 10.6 3.2-4.2H45" fill="none" stroke="#fff" stroke-width="4.6" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg>
