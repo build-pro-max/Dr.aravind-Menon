@@ -1,0 +1,15 @@
+{
+  "name": "Dr. Aravind Menon — Meridian Health Clinic",
+  "short_name": "Meridian Clinic",
+  "description": "Consultant physician and preventive cardiologist in Bengaluru.",
+  "start_url": "../../index.html",
+  "scope": "../../",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0eaca1",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
